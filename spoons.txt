@@ -17,6 +17,8 @@ The player who doesn't have a spoon once the round is over loses.
 If a spoon is mistakenly taken:
    then restart the round.
 
+Once the game is over, if the remaining players choose to keep playing the games, remove one of the spoons from the original pile and keep playing, removing one spoon each time the game is played again until only one spoon is left. When this happens, the pleyer left is the ultimate winner.
+
 Turn 1:
 You are in the middle.
 Recieve 4 cards. 
