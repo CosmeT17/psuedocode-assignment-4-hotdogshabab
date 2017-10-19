@@ -17,6 +17,8 @@ The player who doesn't have a spoon once the round is over loses.
 If a spoon is mistakenly taken:
    then restart the round.
 
+//In spoons, you keep playing until only one player remains. You keep insisting that the player wins the game when he acquires one spoon once, but you may want to specify that he only wins that round and that the game continues without the player that lost and with one less spoon until only one spoon is left and onle player (the ultimate winner of the game) is left. 
+
 Turn 1:
 You are in the middle.
 Recieve 4 cards. 
